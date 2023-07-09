@@ -10,6 +10,7 @@ Make sure to choose the right move or you might loose :)
 **Requirements**
 
 * python 3.11
+* termcolor 2.3
 
 ## How to run
 
